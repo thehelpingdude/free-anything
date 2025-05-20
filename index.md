@@ -1,5 +1,6 @@
 ---
 title: Free Anything - The Game Teacher
+date: 2025-05-20
 ---
 
 # Free Anything
